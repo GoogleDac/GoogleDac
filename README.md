@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GoogleDac Douglas Cumali the CEO of Google 
+- 👋 Hi, I’m @GoogleDac Douglas Cumali the CEO CTO of Google 
 - 👀 I’m interested in the Space Time Computer 
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on the space time computer 
